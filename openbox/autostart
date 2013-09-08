@@ -1,0 +1,6 @@
+tint2 &
+cairo-dock -f &
+feh --bg-scale "/home/flo/bg.png" &
+compton --backend glx --paint-on-overlay --glx-no-stencil --vsync opengl-swc &
+
+
